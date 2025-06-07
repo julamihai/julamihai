@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jula</h1>
-<h3 align="center">Junior laravel developer - Romania</h3>
+<h3 align="center">Junior laravel developer</h3>
 
 - 📫 How to reach me **mihaijula01@gmail.com**
 
