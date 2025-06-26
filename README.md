@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jula</h1>
 <h3 align="center">Junior Laravel Developer</h3>
-
-<p align="center">
-  📫 How to reach me: <strong>mihaijula01@gmail.com</strong>
-</p>
-
 ---
 
 <h3 align="center">Connect with me:</h3>
